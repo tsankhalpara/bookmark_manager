@@ -1,6 +1,7 @@
-feature 'view bookmarks' do
+# require "spec_helper"
+feature 'Viewing Bookmarks' do
   scenario 'visit the bookmarks page' do
     visit('/bookmarks')
-    expect(page).to have_content "Bookmarks"
+    expect(page).to have_content 'Bookmarks'
   end
 end
