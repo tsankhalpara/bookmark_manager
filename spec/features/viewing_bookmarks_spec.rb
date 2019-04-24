@@ -1,4 +1,3 @@
-# require "spec_helper"
 feature 'Viewing Bookmarks' do
   scenario 'visit the bookmarks page' do
     visit('/bookmarks')
