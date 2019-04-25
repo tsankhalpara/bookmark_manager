@@ -14,3 +14,8 @@ So that I can view the list of bookmarks.
 * The controller sends the array to bookmarks.erb.
 * The view sends back HTML to the controller.
 * The controller then sends the HTML response back to the user.
+
+Instructions:
+--------
+* How to create test database
+* How to run psql commands
