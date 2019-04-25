@@ -4,5 +4,10 @@
   </head>
   <body>
     <h2>Bookmarks</h2>
+    <ul>
+      <% @bookmarks.each do |bookmark| %>
+      <li><%= bookmark %></li>
+      <% end %>
+    </ul>
   </body>
 </html>
