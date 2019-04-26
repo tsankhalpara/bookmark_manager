@@ -8,9 +8,6 @@
         1,
         1,
         1,
-        null,
-        null,
-        1,
         1,
         1,
         null,
@@ -24,12 +21,23 @@
         null,
         1,
         1,
-        null,
-        null,
         1,
         null,
         1,
         null,
+        null,
+        null
+      ],
+      "/Users/Tara/Projects/week4/bookmark_manager/spec/features/add_new_bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
         null,
         null
       ],
@@ -53,6 +61,6 @@
         null
       ]
     },
-    "timestamp": 1556289535
+    "timestamp": 1556289880
   }
 }
