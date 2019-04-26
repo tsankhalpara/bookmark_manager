@@ -1,4 +1,4 @@
-require 'pg'
+require 'capybara/rspec'
 
 feature 'Viewing Bookmarks' do
   scenario 'visit the bookmarks page' do

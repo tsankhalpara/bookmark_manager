@@ -21,6 +21,16 @@
         1,
         null,
         null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
         null
       ],
       "/Users/Tara/Projects/week4/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": [
@@ -43,6 +53,6 @@
         null
       ]
     },
-    "timestamp": 1556274890
+    "timestamp": 1556289535
   }
 }

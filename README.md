@@ -22,7 +22,7 @@ So that I can add new bookmarks to the list.
 ```
 * The user visits the bookmarks page.
 * The user clicks button 'new'
-* The controller calls the .add method from bookmark.rb model.
+* The controller calls the .create method from bookmark.rb model.
 * The user is redirected to a form.
 * The user completes the form.
 * The information from the form is added to the bookmarks array.
